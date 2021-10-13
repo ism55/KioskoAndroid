@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kiosko Android</string>
+    <string name="habilitar_usuarios">Habilitar usuarios</string>
+    <string name="Administrador">ERES ADMIN</string>
+    <string name="NoAdministrador">NO ERES ADMIN</string>
+    <string name="habilitado"> Habilitado</string>
+    <string name="deshabilitado"> Deshabilitado</string>
+    <string name="statusbar">Barra de estado</string>
+
+</resources>
